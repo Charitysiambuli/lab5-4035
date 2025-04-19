@@ -14,7 +14,7 @@
 
 ---
 
-## 🛠 Tools Summary
+## Tools Summary
 
 ### Bootstrap
 - Component-based framework
@@ -33,5 +33,5 @@
 
 ---
 
-## 🔗 React App
+## React App
 [CodeSandbox Link](https://codesandbox.io/p/devbox/holy-bird-xss8pn?workspaceId=ws_7Zjf75vkZQKDYTr9onbAs8)
